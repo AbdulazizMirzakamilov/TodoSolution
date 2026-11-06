@@ -4,6 +4,13 @@
     <TargetFramework>net10.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
+    <GeneratePackageOnBuild>false</GeneratePackageOnBuild>
+    <PackageId>Todo.Core</PackageId>
+    <Version>0.1.0</Version>
+    <Authors>AbdulazizMirzakamilov</Authors>
+    <Company>io.natk</Company>
+    <Description>Simple Todo core library (for practice)</Description>
+    <PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
   </PropertyGroup>
 
 </Project>
