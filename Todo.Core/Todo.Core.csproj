@@ -6,7 +6,7 @@
     <Nullable>enable</Nullable>
     <GeneratePackageOnBuild>false</GeneratePackageOnBuild>
     <PackageId>Todo.Core</PackageId>
-    <Version>0.1.0</Version>
+    <Version>0.2.0</Version>
     <Authors>AbdulazizMirzakamilov</Authors>
     <Company>io.natk</Company>
     <Description>Simple Todo core library (for practice)</Description>
