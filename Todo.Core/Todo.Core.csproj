@@ -11,6 +11,9 @@
     <Company>io.natk</Company>
     <Description>Simple Todo core library (for practice)</Description>
     <PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
+    <RepositoryUrl>https://github.com/AbdulazizMirzakamilov/TodoSolution</RepositoryUrl>
+    <PackageProjectUrl>https://github.com/AbdulazizMirzakamilov/TodoSolution</PackageProjectUrl>
+    <RepositoryType>git</RepositoryType>
   </PropertyGroup>
 
 </Project>
