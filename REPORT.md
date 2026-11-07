@@ -330,9 +330,10 @@ jobs:
 ---
 
 ### 3.5. Ссылка на опубликованный пакет в GitHub Packages
+- **URL пакета:** [https://github.com/users/AbdulazizMirzakamilov/packages/nuget/package/Todo.Core](https://github.com/users/AbdulazizMirzakamilov/packages/nuget/package/Todo.Core)
 - **URL реестра пакетов:** `https://nuget.pkg.github.com/AbdulazizMirzakamilov/index.json`
 - **Имя пакета:** `Todo.Core`
-- **Версия пакета:** `0.2.0`
+- **Опубликованные версии:** `0.1.0`, `0.2.0`
 - **Страница репозитория:** [https://github.com/AbdulazizMirzakamilov/TodoSolution](https://github.com/AbdulazizMirzakamilov/TodoSolution)
 
 ---
